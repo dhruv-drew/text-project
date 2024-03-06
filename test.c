@@ -5,7 +5,5 @@ int main()
     m = 23 + 23;
 
 
-    printf("%d",&m);
-
     return 0;
 }
